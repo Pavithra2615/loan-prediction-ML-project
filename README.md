@@ -1,5 +1,3 @@
-Here is a professional, concise README content for your Loan Prediction ML Project, following best practices for data science and machine learning repositories:
-
 Loan Prediction ML Project
 A machine learning project to predict bank loan approvals using historical applicant data, with popular models like Logistic Regression and Random Forest.
 
